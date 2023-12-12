@@ -1,0 +1,11 @@
+[project]
+name = 'deeply_nested_tools'
+version = '1.0'
+description = 'Utility functions for handeling deeply nested simple python datastructures.'
+readme = 'readme.md'
+license = { file = 'LICENSE' }
+authors = [
+        { name = 'Maxwell Gisborne', email = 'maxwell.gisborne+pypi@plymouth.ac.uk'}
+]
+dependencies = [
+]
